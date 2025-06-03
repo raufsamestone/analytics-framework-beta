@@ -1,0 +1,8 @@
+event_type,timestamp,amount,user_id,source
+visit,2024-01-15 10:30:00,0,user123,google
+product_view,2024-01-15 10:31:00,0,user123,google
+add_to_cart,2024-01-15 10:32:00,0,user123,google
+purchase,2024-01-15 10:33:00,49.99,user123,google
+visit,2024-01-15 10:35:00,0,user456,facebook
+product_view,2024-01-15 10:36:00,0,user456,facebook
+visit,2024-01-15 10:40:00,0,user789,direct
